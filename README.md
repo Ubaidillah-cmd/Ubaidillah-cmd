@@ -18,7 +18,11 @@
 
 ---
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="profile" width="320"
+style="border-radius:20px; transition:0.3s;"
+onmouseover="this.style.transform='scale(1.05)'"
+onmouseout="this.style.transform='scale(1)'"
+src="https://raw.githubusercontent.com/Ubaidillah-cmd/Ubaidillah-cmd/main/baika.png">
 
 ## 👨‍💻 About Me
 - 🎓 Informatics Student
