@@ -22,7 +22,7 @@
 style="border-radius:20px; transition:0.3s;"
 onmouseover="this.style.transform='scale(1.05)'"
 onmouseout="this.style.transform='scale(1)'"
-src="https://raw.githubusercontent.com/Ubaidillah-cmd/Ubaidillah-cmd/main/baika.png">
+src="https://raw.githubusercontent.com/Ubaidillah-cmd/Ubaidillah-cmd/main/baika.gif">
 
 ## 👨‍💻 About Me
 - 🎓 Informatics Student
