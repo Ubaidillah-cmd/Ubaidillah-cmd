@@ -23,10 +23,7 @@ style="border-radius:20px; transition:0.3s;"
 onmouseover="this.style.transform='scale(1.05)'"
 onmouseout="this.style.transform='scale(1)'"
 src="https://raw.githubusercontent.com/Ubaidillah-cmd/Ubaidillah-cmd/main/baika.png">
-<p align="right">
-  <img width="320" src="https://raw.githubusercontent.com/Ubaidillah-cmd/Ubaidillah-cmd/main/baika.png"/><br/>
-  <img width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-</p>
+
 ## 👨‍💻 About Me
 - 🎓 Informatics Student
 - 💻 Web Developer & Java Programmer
