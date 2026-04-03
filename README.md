@@ -30,8 +30,66 @@
 ---
 
 ## 🛠️ Tech Stack
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github,vscode,mysql" />
+
+<table align="center">
+<tr>
+<td align="center" width="300">
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js" /><br><br>
+<sub>Building interactive UI</sub>
+
+</td>
+
+<td align="center" width="300">
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=java,python,php" /><br><br>
+<sub>Server-side logic</sub>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mysql" /><br><br>
+<sub>Data management</sub>
+
+</td>
+
+<td align="center">
+
+### 🧰 Tools & Environment
+<img src="https://skillicons.dev/icons?i=git,github,vscode" /><br><br>
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache-CA2132?style=for-the-badge&logo=apache&logoColor=white" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🚀 Framework
+<img src="https://skillicons.dev/icons?i=laravel" /><br><br>
+<sub>Modern web development</sub>
+
+</td>
+
+<td align="center">
+
+### 🧠 Currently Learning
+<img src="https://skillicons.dev/icons?i=react,nodejs" /><br><br>
+<sub>Leveling up skills</sub>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Java+Programmer;Laravel+Enthusiast;Always+Learning+New+Things🚀">
 </p>
 
 ---
@@ -77,10 +135,10 @@
 <a href="https://www.instagram.com/abdurrahmanubaidillah" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" height="30"/>
 </a>
-<a href="#">
+<a href="https://www.linkedin.com/in/abdur-rahman-ubaidillah-875608331">
 <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
 </a>
-<a href="#">
+<a href="https://github.com/Ubaidillah-cmd">
 <img src="https://skillicons.dev/icons?i=github" height="30"/>
 </a>
 </p>
