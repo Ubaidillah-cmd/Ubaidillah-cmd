@@ -36,16 +36,25 @@
 
 ---
 
-## 🏆 GitHub Trophy
+### 🏆 GitHub Trophy
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ubaidillah-cmd&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ubaidillah-cmd&theme=tokyonight&no-frame=true&no-bg=true" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ubaidillah-cmd&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ubaidillah-cmd&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ubaidillah-cmd&theme=tokyonight" />
+</p>
+
+### 🧠 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaidillah-cmd&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
