@@ -21,12 +21,12 @@
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 👨‍💻 About Me
-- 🎓 Informatics Student
-- 💻 Web Developer & Java Programmer
-- 🌱 Currently learning **Advanced Java & Frontend**
-- 🎯 Goal: Become a Professional Software Engineer
-- ⚡ Fun fact: Ngoding + Musik = Produktif 🔥
-
+- 🎓 Information Systems Student at Universitas Muhammadiyah
+- 💻 Passionate about Web Development & Java Programming
+- 📊 Strong interest in System Analysis, Database Design, and Software Development
+- 🌱 Currently improving skills in **Advanced Java, Frontend & Backend Development**
+- 🚀 Love building real-world projects and solving problems with code
+- ⚡ Fun fact: Coding + Music = Peak Productivity 🎧🔥
 ---
 
 ## 🛠️ Tech Stack
