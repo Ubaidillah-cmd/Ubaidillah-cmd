@@ -36,36 +36,27 @@
 
 ---
 
-### 🏆 GitHub Trophy
+## 🏆 GitHub Trophy
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ubaidillah-cmd&theme=tokyonight&no-frame=true&no-bg=true" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ubaidillah-cmd&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ubaidillah-cmd&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ubaidillah-cmd&theme=tokyonight" />
 </p>
 
-### 🧠 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaidillah-cmd&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ubaidillah-cmd&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
-## 🧠 Most Used Languages
+## 🧠 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaidillah-cmd&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaidillah-cmd&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -83,14 +74,20 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="[#](https://www.instagram.com/abdurrahmanubaidillah?)"><img src="https://skillicons.dev/icons?i=instagram" height="30"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=github" height="30"/></a>
+<a href="https://www.instagram.com/abdurrahmanubaidillah" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="30"/>
+</a>
+<a href="#">
+<img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+</a>
+<a href="#">
+<img src="https://skillicons.dev/icons?i=github" height="30"/>
+</a>
 </p>
 
 ---
 
-## 🐍 Contribution Snake (Auto Animation)
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ubaidillah-cmd/Ubaidillah-cmd/output/snake.svg" />
 </p>
@@ -98,7 +95,7 @@
 ---
 
 ## 💬 Quote
-> "First, solve the problem. Then, write the code." – John Johnson
+> "First, solve the problem. Then, write the code."
 
 ---
 
