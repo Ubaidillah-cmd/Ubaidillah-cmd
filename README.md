@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ubaidillah</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer;Java+Programmer;Informatics+Student;Always+Learning+New+Things🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer;Java+Programmer;Information Systems Student ;Always+Learning+New+Things🚀">
 </p>
 
 ---
