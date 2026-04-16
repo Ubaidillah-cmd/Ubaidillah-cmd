@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ubaidillah</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer;Java+Programmer;Information Systems Student;Always+Learning+New+Things🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer;Java+Programmer;Information+ Systems+Student;Always+Learning+New+Things🚀">
 </p>
 
 ---
@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500">
+  <img src="[https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRzOWpuZmxqa3ZmdjkyaTY3N3BlbmNsemJ4enJzeWd6cWR5ejkyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif)" width="500"/>
 </p>
 
 ---
